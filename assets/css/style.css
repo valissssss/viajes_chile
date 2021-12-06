@@ -1,0 +1,73 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+
+section{
+    background-color: black;
+}
+/* NAVBAR*/
+
+.logo-h {
+    height: 3em;
+    padding: 0.5em;
+    margin-left: 3em;
+}
+
+.foto-banner{
+    width: 100%;
+}
+
+
+/* QUIENES SOMOS */
+
+.we{
+    color:white;
+    padding: 1em;
+    text-align:center;
+}
+
+.texto1 p {
+    text-align: left;
+    color: white;
+}
+
+.fas {
+    background-color: #339ba6;
+    color: white;
+    align-content: center;
+}
+
+.linea-baja{
+    border-width:1em;
+    width:100%;
+    border-style:line;
+}
+
+/* DESTACADOS */
+
+.card-title{
+    color: white;
+}
+
+.texto2{
+    color: white;
+}
+
+.cards{
+    margin: 0;
+}
+
+/* FOOTER */
+
+.footerviajes {
+    padding-left: 12rem;
+    color: white;
+    
+}
+
+.iconos {
+    text-align: right;
+    padding-right: 12rem;
+    color: white;
+}
